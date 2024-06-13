@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11.313"
+    "verified": "11"
   },
     "description": "Hey choom! This here is a collection of over 40 free cyberpunk and sci-fi inspired battle maps, walled and illuminated to immerse your players and bring your dystopian future to life!",
     "authors": [
@@ -20,7 +20,7 @@
 	  "entity": "Scene",
 	  "type": "Scene",
 	  "name": "sol-freemaps",
-	  "path": "packs/sol-freemaps",
+	  "path": "packs/sol-freemaps"
 	  }
   ],
   "manifest": "https://github.com/SolutionMaps/solutionmaps-freebies/releases/download/1.0.0/module.json",
