@@ -1,7 +1,8 @@
 ![alt text](SolFreeBanner.jpg)
 SolutionMaps - Cyberpunk & Sci-Fi Battle Maps
+https://www.patreon.com/solutionmaps
 
-This module contains over 40 rendered scenes with walls and lighting for Foundry VTT.
+This module contains over 40 battle map scenes with walls and lighting for Foundry VTT.
 
 Higher resolution scenes along with animated versions can be found over on my Patreon!
 
