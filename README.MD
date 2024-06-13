@@ -15,4 +15,4 @@ Enjoy!
 
 -Solution
 
-![alt text(https://i.imgur.com/vZCx1hS.jpg)]
+![alt text(https://raw.githubusercontent.com/SolutionMaps/solutionmaps-freebies/main/Example.jpg)]
