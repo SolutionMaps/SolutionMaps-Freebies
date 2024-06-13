@@ -1,3 +1,4 @@
+![alt text](SolFreeBanner.jpg)
 SolutionMaps - Cyberpunk & Sci-Fi Battle Maps
 
 This module contains over 40 rendered scenes with walls and lighting for Foundry VTT.
