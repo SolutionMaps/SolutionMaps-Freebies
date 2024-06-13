@@ -18,9 +18,9 @@
 ],
 	"url": "https://www.patreon.com/solutionmaps",
 	"manifest": "https://github.com/SolutionMaps/solutionmaps-freebies/releases/download/1.0.0/module.json",
-	"download": "https://github.com/SolutionMaps/solutionmaps-freebies/releases/download/1.0.0/solutionmaps-freebies.zip"
+	"download": "https://github.com/SolutionMaps/solutionmaps-freebies/releases/download/1.0.0/solutionmaps-freebies.zip",
 	"compatibility": {
 	"minimum": "11",
 	"verified": "11"
-},
+}
 }
