@@ -1,0 +1,29 @@
+{
+	"name": "solutionmaps-freebies",
+	"id": "solutionmaps-freebies",
+	"title": "SolutionMaps - Free Cyberpunk & Sci-Fi Battle Maps",
+	"description": "Hey choom! This here is a collection of over 40 free cyberpunk and sci-fi inspired battle maps, walled and illuminated to immerse your players and bring your dystopian future to life!",
+	"authors": [
+		{
+		"name": "Solution",
+		"url": "https://foundryvtt.com/community/s0lu7i0n"
+		}
+	],
+	"url": "https://www.patreon.com/solutionmaps",
+	"version": "1.0.0",
+	"compatibility": {
+    "minimum": "11",
+    "verified": "11"
+	},
+	
+	"packs": [
+    {
+      "name": "sol-freemaps",
+      "label": "SOL-FreeMaps",
+      "path": "packs/sol-freemaps",
+      "type": "Scene",
+    }
+  ],
+	"manifest": "",
+	"download": ""
+}
