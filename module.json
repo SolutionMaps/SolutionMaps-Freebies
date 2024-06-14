@@ -1,40 +1,32 @@
 {
-  "title": "SolutionMaps - Free Cyberpunk & Sci-Fi Battle Maps",
-  "id": "solutionmaps-freebies",
-  "version": "1.0.0",
-  "authors": [
-    {
-      "name": "Solution",
-      "url": "https://foundryvtt.com/community/s0lu7i0n"
-    }
-  ],
-  "packs": [
-    {
-      "name": "sol-freemaps",
-      "label": "SOL-FreeMaps",
-      "path": "packs/sol-freemaps",
-      "type": "Scene",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "sol-freemaps-5ft",
-      "label": "SOL-FreeMaps-5ft",
-      "path": "packs/sol-freemaps-5ft",
-      "type": "Scene",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    }
-  ],
-  "url": "https://www.patreon.com/solutionmaps",
-  "manifest": "https://github.com/SolutionMaps/solutionmaps-freebies/releases/download/1.0.0/module.json",
-  "download": "https://github.com/SolutionMaps/solutionmaps-freebies/releases/download/1.0.0/solutionmaps-freebies.zip",
-  "compatibility": {
-    "minimum": "11",
-    "verified": "11"
-  }
+	"title": "SolutionMaps - Free Cyberpunk & Sci-Fi Battle Maps",
+	"id": "solutionmaps-freebies",
+	"version": "1.0.0",
+	"authors": [
+	{
+	"name": "Solution",
+	"url": "https://foundryvtt.com/community/s0lu7i0n"
+}
+],
+	"packs": [
+{
+	"label": "SOL-FreeMaps",
+	"type": "Scene",
+	"name": "sol-freemaps",
+	"path": "packs/sol-freemaps"
+},
+{
+	"label": "SOL-FreeMaps",
+	"type": "Scene",
+	"name": "sol-freemaps",
+	"path": "packs/sol-freemaps"
+}
+],
+	"url": "https://www.patreon.com/solutionmaps",
+	"manifest": "https://github.com/SolutionMaps/solutionmaps-freebies/releases/download/1.0.0/module.json",
+	"download": "https://github.com/SolutionMaps/solutionmaps-freebies/releases/download/1.0.0/solutionmaps-freebies.zip",
+	"compatibility": {
+	"minimum": "11",
+	"verified": "11"
+}
 }
